@@ -1,0 +1,36 @@
+{
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2024-09-03 03:25:01 -0400"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:sparse_jungle": "2024-09-03 03:47:34 -0400",
+      "minecraft:river": "2024-09-03 03:33:29 -0400",
+      "minecraft:forest": "2024-09-03 03:25:09 -0400",
+      "minecraft:plains": "2024-09-03 03:33:30 -0400"
+    },
+    "done": false
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2024-09-03 03:25:20 -0400"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/large_water_wheel": {
+    "criteria": {
+      "has_item": "2024-09-03 03:25:20 -0400"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2024-09-03 03:48:07 -0400"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}

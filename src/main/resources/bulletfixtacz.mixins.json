@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "org.mcarctic.bulletfixtacz.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "BulletFixTacZ.refmap.json",
+  "mixins": [
+    "MixinBlockRayTrace"
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
